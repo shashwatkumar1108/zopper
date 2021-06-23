@@ -1,0 +1,17 @@
+.card {
+    min-height:40vh;
+    width:17vw;
+    margin: 20px;
+    border: 2px solid cyan;
+    position: relative;
+}
+
+.button {
+    background-color: white;
+}
+
+.pos {
+    position: absolute;
+    top:-8px;
+    left:35%;
+}

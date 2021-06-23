@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.title {
+    min-height:5vh;
+    width:5vw;
+    display:flex;
+}
+
+.rectangle {
+    width:90%;
+    border-radius:0 0 5px 5px;
+    text-align: center;
+    color:white;
+    font-weight:600;
+}
+
+.left-triangle {
+    height:10%;
+    width:10%;
+    background-color: blue;
+}
+
+.right-triangle {
+    height:10%;
+    width: 10%;
+    background-color: blue;
+}
