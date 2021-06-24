@@ -1,6 +1,6 @@
 .card {
     min-height:50vh;
-    width:20vw;
+    width:30%;
     margin: 20px;
     position: relative;
     display: flex;
@@ -59,4 +59,13 @@
 
 .amount {
     font-size: 3em;
+}
+
+@media only screen and (max-width: 600px) {
+    .card {
+        width: 100%;
+    } 
+    .container {
+        flex-direction: column;
+    }
 }
