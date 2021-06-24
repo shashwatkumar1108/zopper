@@ -1,7 +1,5 @@
 * {
-    padding: 0;
     box-sizing: border-box;
-    margin: 0;
 }
 
 .title {
@@ -19,13 +17,13 @@
 }
 
 .left-triangle {
-    height:10%;
-    width:10%;
-    background-color: blue;
+    height:0;
+    width:0;
+    border-top: 10px solid rgb(245,247,255);
 }
 
 .right-triangle {
-    height:10%;
-    width: 10%;
-    background-color: blue;
+    height:0;
+    width:0;
+    border-top: 10px solid rgb(245,247,255);
 }
