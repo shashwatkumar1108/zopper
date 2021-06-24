@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zopper/static/css/main.4adc3ebb.chunk.css",
+    "main.js": "/zopper/static/js/main.3656d021.chunk.js",
+    "main.js.map": "/zopper/static/js/main.3656d021.chunk.js.map",
+    "runtime-main.js": "/zopper/static/js/runtime-main.87c8c3ff.js",
+    "runtime-main.js.map": "/zopper/static/js/runtime-main.87c8c3ff.js.map",
+    "static/js/2.ab96c788.chunk.js": "/zopper/static/js/2.ab96c788.chunk.js",
+    "static/js/2.ab96c788.chunk.js.map": "/zopper/static/js/2.ab96c788.chunk.js.map",
+    "static/js/3.2740ddb5.chunk.js": "/zopper/static/js/3.2740ddb5.chunk.js",
+    "static/js/3.2740ddb5.chunk.js.map": "/zopper/static/js/3.2740ddb5.chunk.js.map",
+    "index.html": "/zopper/index.html",
+    "static/css/main.4adc3ebb.chunk.css.map": "/zopper/static/css/main.4adc3ebb.chunk.css.map",
+    "static/js/2.ab96c788.chunk.js.LICENSE.txt": "/zopper/static/js/2.ab96c788.chunk.js.LICENSE.txt",
+    "static/media/Group 4759@2x.dc3ffb6f.png": "/zopper/static/media/Group 4759@2x.dc3ffb6f.png",
+    "static/media/Image 4@2x.7851b756.png": "/zopper/static/media/Image 4@2x.7851b756.png",
+    "static/media/Image 6@2x.dcea2fe8.png": "/zopper/static/media/Image 6@2x.dcea2fe8.png",
+    "static/media/ZRP Logo@2x.a3a1af73.png": "/zopper/static/media/ZRP Logo@2x.a3a1af73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87c8c3ff.js",
+    "static/js/2.ab96c788.chunk.js",
+    "static/css/main.4adc3ebb.chunk.css",
+    "static/js/main.3656d021.chunk.js"
+  ]
+}
